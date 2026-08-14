@@ -60,10 +60,17 @@ My work focused on the development of the **digital patient record and prescript
 
 <br>
 
-<p align="center">
-  <img src="optigestion-patient-record.png" width="650">
-</p>
-
-<p align="center">
-  <sub>Digital Patient Record module developed for OptiGestión.</sub>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="optigestion-patient-record.png" width="100%">
+      <br>
+      <sub><b>Digital Patient Record</b><br>Clinical history and patient information management.</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="optigestion-pos.png" width="100%">
+      <br>
+      <sub><b>Point of Sale</b><br>Sales, products and payment processing.</sub>
+    </td>
+  </tr>
+</table>
