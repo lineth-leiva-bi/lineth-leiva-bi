@@ -39,3 +39,21 @@ Currently expanding my knowledge in <b>Cybersecurity</b> while strengthening my 
 <p align="center">
 A selection of projects where I have applied software development, database design, APIs, and data analysis to solve practical problems.
 </p>
+
+<br>
+
+### 01. OptiGestión | Optical Management System
+
+**Real-world web application developed to digitalize and centralize the operational processes of an optical business.**
+
+My work focused on the development of the **digital patient record and prescription system**, as well as improvements to the **Point of Sale, inventory management and cash closing modules**.
+
+**Key features**
+- Digital patient records and clinical history
+- Prescription management
+- Point of Sale (POS)
+- Inventory management
+- Billing and payment tracking
+- Cash closing
+
+**Tech:** `PHP` · `MySQL` · `JavaScript` · `HTML` · `CSS` · `Stored Procedures`
