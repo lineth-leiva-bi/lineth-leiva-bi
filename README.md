@@ -31,3 +31,11 @@ Currently expanding my knowledge in <b>Cybersecurity</b> while strengthening my 
   <b>REST APIs</b> •
   <b>Jira</b>
 </p>
+
+<br>
+
+<h2 align="center">Featured Projects</h2>
+
+<p align="center">
+A selection of projects where I have applied software development, database design, APIs, and data analysis to solve practical problems.
+</p>
