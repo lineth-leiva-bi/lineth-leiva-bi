@@ -42,7 +42,7 @@ A selection of projects where I have applied software development, database desi
 
 <br>
 
-### 01. OptiGestión | Optical Management System
+## 01. OptiGestión | Optical Management System
 
 **Real-world web application developed to digitalize and centralize the operational processes of an optical business.**
 
@@ -74,3 +74,35 @@ My work focused on the development of the **digital patient record and prescript
     </td>
   </tr>
 </table>
+
+<br>
+
+## 02. ClinicFlow API | Secure Backend & REST API
+
+**Backend project developed with ASP.NET Core to manage users, clients, and appointments through a REST API.**
+
+This project focuses on backend development and API security, implementing **JWT authentication**, protected endpoints, password hashing, and database management with Entity Framework.
+
+**Key features**
+
+- User registration and authentication
+- JWT-based authentication
+- Protected endpoints with authorization
+- Client management (CRUD)
+- Appointment management
+- Role-based administrative endpoints
+- Password hashing
+- REST API architecture
+- API testing and documentation with Swagger
+
+**Tech:** `C#` · `ASP.NET Core` · `REST API` · `JWT` · `Entity Framework` · `SQL Server` · `Swagger`
+
+<br>
+
+<p align="center">
+  <img src="clinicflow-api-swagger.png" width="700">
+</p>
+
+<p align="center">
+  <sub>REST API documentation with JWT authentication and protected endpoints.</sub>
+</p>
