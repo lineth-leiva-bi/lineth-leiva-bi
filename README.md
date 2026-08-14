@@ -57,3 +57,13 @@ My work focused on the development of the **digital patient record and prescript
 - Cash closing
 
 **Tech:** `PHP` · `MySQL` · `JavaScript` · `HTML` · `CSS` · `Stored Procedures`
+
+<br>
+
+<p align="center">
+  <img src="optigestion-patient-record.png" width="650">
+</p>
+
+<p align="center">
+  <sub>Digital Patient Record module developed for OptiGestión.</sub>
+</p>
