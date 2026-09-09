@@ -102,14 +102,12 @@ The project integrates a **React frontend with an ASP.NET Core REST API and SQL 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="optigestion-patient-record.png" width="100%">
+      <img src="clinicflow.png" width="100%">
       <br>
-      <sub><b>Digital Patient Record</b><br>Clinical history and patient information management.</sub>
     </td>
     <td width="50%" align="center">
-      <img src="optigestion-pos.png" width="100%">
+      <img src="clinicflowhome.png" width="100%">
       <br>
-      <sub><b>Point of Sale</b><br>Sales, products and payment processing.</sub>
     </td>
   </tr>
 </table>
