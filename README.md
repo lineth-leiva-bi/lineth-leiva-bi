@@ -5,9 +5,10 @@
 <h3 align="center">About Me</h3>
 
 <p align="center">
-Junior Software Developer with experience in <b>web development, databases, APIs, and data analysis</b>.<br>
-I enjoy building practical solutions to real-world problems and continuously improving my technical skills.<br>
-Currently expanding my knowledge in <b>Cybersecurity</b> while strengthening my background in Software Development and Data.
+Junior Software Developer with a background in Information Systems and hands-on experience in Full Stack development, databases, REST APIs, and data analysis.</b>.<br>
+I have worked on academic and real-world projects using C#, .NET, React, PHP, SQL, Power BI, and other data tools, building solutions that range from web applications to data analysis and business intelligence.
+
+My current focus is on Software Development and Data & BI, while continuing to expand my technical knowledge through specialized training in Cybersecurity.<br>
 </p>
 
 <br>
