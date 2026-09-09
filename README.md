@@ -43,7 +43,7 @@ A selection of projects where I have applied software development, database desi
 
 <br>
 
-## 01. OptiGestión | Optical Management System
+## 01. [OptiGestión | Optical Management System](URL-DEL-REPOSITORIO)
 
 **Real-world web application developed to digitalize and centralize the operational processes of an optical business.**
 
@@ -78,7 +78,7 @@ My work focused on the development of the **digital patient record and prescript
 
 <br>
 
-## 02. ClinicFlow | Full Stack Clinical Management System
+## 02. [ClinicFlow | Full Stack Clinical Management System](https://github.com/lineth-leiva-bi/ClinicFlowAPI)
 
 **Full Stack web application developed to manage clients and appointments through a role-based clinical management system.**
 
