@@ -85,17 +85,13 @@ The project integrates a **React frontend with an ASP.NET Core REST API and SQL 
 
 **Key features**
 
-- User registration and secure authentication
-- JWT-based authentication and session management
+- User registration and secure JWT authentication
 - Role-based access for Clients and Administrators
 - Client management with activation and deactivation
-- Personal appointment scheduling and management
-- Appointment editing and cancellation
-- Administrative view of clients and appointments
-- Protected REST API endpoints
-- Password hashing
+- Personal appointment scheduling, editing, and cancellation
+- Administrative management of clients and appointments
+- Protected REST API endpoints and password hashing
 - Data persistence with Entity Framework Core and SQL Server
-- API testing and documentation with Swagger
 
 **Tech:** `React` · `Vite` · `JavaScript` · `C#` · `ASP.NET Core` · `Entity Framework Core` · `SQL Server` · `JWT` · `REST API` · `Swagger`
 
