@@ -77,32 +77,24 @@ My work focused on the development of the **digital patient record and prescript
 
 <br>
 
-## 02. ClinicFlow API | Secure Backend & REST API
+## 02. ClinicFlow | Full Stack Clinical Management System
 
-**Backend project developed with ASP.NET Core to manage users, clients, and appointments through a REST API.**
+**Full Stack web application developed to manage clients and appointments through a role-based clinical management system.**
 
-This project focuses on backend development and API security, implementing **JWT authentication**, protected endpoints, password hashing, and database management with Entity Framework.
+The project integrates a **React frontend with an ASP.NET Core REST API and SQL Server**, implementing secure authentication, role-based authorization, appointment management, and differentiated experiences for clients and administrators.
 
 **Key features**
 
-- User registration and authentication
-- JWT-based authentication
-- Protected endpoints with authorization
-- Client management (CRUD)
-- Appointment management
-- Role-based administrative endpoints
+- User registration and secure authentication
+- JWT-based authentication and session management
+- Role-based access for Clients and Administrators
+- Client management with activation and deactivation
+- Personal appointment scheduling and management
+- Appointment editing and cancellation
+- Administrative view of clients and appointments
+- Protected REST API endpoints
 - Password hashing
-- REST API architecture
+- Data persistence with Entity Framework Core and SQL Server
 - API testing and documentation with Swagger
 
-**Tech:** `C#` · `ASP.NET Core` · `REST API` · `JWT` · `Entity Framework` · `SQL Server` · `Swagger`
-
-<br>
-
-<p align="center">
-  <img src="clinicflow-api-swagger.png" width="700">
-</p>
-
-<p align="center">
-  <sub>REST API documentation with JWT authentication and protected endpoints.</sub>
-</p>
+**Tech:** `React` · `Vite` · `JavaScript` · `C#` · `ASP.NET Core` · `Entity Framework Core` · `SQL Server` · `JWT` · `REST API` · `Swagger`
